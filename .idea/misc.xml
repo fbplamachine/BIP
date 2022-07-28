@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/drawable/bg_register_btn.xml" value="0.25" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.25" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.25" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.25" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout-v21/fragment_login.xml" value="0.11510416666666666" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout-v23/fragment_register.xml" value="0.271286231884058" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout/fragment_forgot_password.xml" value="0.271286231884058" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout/fragment_login.xml" value="0.4" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout/fragment_register.xml" value="0.264" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout/fragment_splash_screen.xml" value="0.536" />
+        <entry key="..\:/Projects/Mobile/Kotlin/bip-mobile/app/src/main/res/layout/layout_progress.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

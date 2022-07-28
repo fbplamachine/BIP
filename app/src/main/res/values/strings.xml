@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BIP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading</string>
+    <string name="logo">Logo</string>
+    <string name="home">Home</string>
+    <string name="log_in_with">Log in With</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="or_log_in_with_credentials">Or log in with credentials</string>
+    <string name="password">Password</string>
+    <string name="register_for_free_with">Register for free with</string>
+    <string name="or_register_with_details">Or register with details</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="i_agree_with">I agree with</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="register">Register</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="login">Login</string>
+    <string name="reset_password_for_your_account">Reset password for your account</string>
+    <string name="go_back">Go back</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_your_registered_email_id">Enter Your Registered Email ID</string>
+</resources>
