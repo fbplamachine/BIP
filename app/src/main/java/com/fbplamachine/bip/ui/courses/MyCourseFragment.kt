@@ -1,4 +1,4 @@
-package com.fbplamachine.bip.ui.login
+package com.fbplamachine.bip.ui.courses
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,13 +7,13 @@ import android.view.View
 import android.view.ViewGroup
 import com.fbplamachine.bip.R
 
-class ForgotPasswordFragment : Fragment() {
+class MyCourseFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_forgot_password, container, false)
+        return inflater.inflate(R.layout.fragment_my_course, container, false)
     }
 }
